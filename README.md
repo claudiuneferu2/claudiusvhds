@@ -10,7 +10,7 @@ All VHDs are saved on Mega!
 - Windows 2.03 (MS-DOS 6.22): https://www.4shared.com/file/a-G0pEo9iq/win20.html
 - Windows 3.0 (MS-DOS 6.22): https://www.4shared.com/file/eZFCvzOUea/Windows_30-disk2.html
 - Windows 3.1: https://www.4shared.com/file/-Kpx8exOea/Windows_31_CLR__30010_.html
-- Windows NT 3.51 : Coming soon
+- Windows NT 3.51 : https://www.4shared.com/file/Vqqe_qcPea/Windows_NT_351-disk1.html
 - Microsoft Chicago 4.00.81: Coming soon
 - Microsoft Chicago 4.00.122: Coming soon
 - Windows 95 Plus: Coming soon
