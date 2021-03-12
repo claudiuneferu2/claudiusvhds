@@ -14,4 +14,4 @@ All VHDs are saved on Mega!
 - Microsoft Chicago 4.00.81: Coming soon
 - Microsoft Chicago 4.00.122: Coming soon
 - Windows 95 Plus: Coming soon
-- Windows 98 Plus: Coming soon
+- Windows 98 Plus: https://www.4shared.com/file/8tdRO_Btiq/Windows_98_Plus_VHD.html
