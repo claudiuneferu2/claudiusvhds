@@ -1,9 +1,12 @@
-# claudiusvhds 1.9
+# claudiusvhds 2.1
 Claudiu's VHDs has all Old Windows Operating Systems (1.x - 2000)
+![image](https://user-images.githubusercontent.com/44729903/111039447-cb5e7e00-8436-11eb-8796-dafef73e8c1e.png)
+
 ## Info
 - Some VHDs are not mine, others are modified by me.
 - Some VHDs are posted on 4shared and mediafire.
-### If you have a VHD/VDI , you can contact me at: claudiuneferu2@yahoo.com (another Windows 1.x - 98 versions)
+- The Archives are saved on .7z!
+### If you have a VHD/VDI , you can contact me at: claudiuneferu2@yahoo.com 
 
 ### So we have:
 - Windows 1.01: https://www.4shared.com/file/wryBiiyBiq/Windows_10.html
@@ -15,8 +18,8 @@ Claudiu's VHDs has all Old Windows Operating Systems (1.x - 2000)
 - Microsoft Chicago 4.00.122: https://www.4shared.com/archive/IsJmJ6Ybiq/Windows_Chicago_400122.html
 - Windows 95 Plus: https://www.4shared.com/archive/F5lRt05Dea/Windows_95_Plus.html (VHD from the internet, modified by me (I installed Plus on it))
 - Windows 95: https://www.4shared.com/archive/aNcernqTiq/Windows_95_OSR1.html (This is not OSR1, its RTC and its missing some files but it works)
-- Windows 98 Plus: ⚠️ (Not Uploaded)
-- Windows 98: ⚠️ (Not Uploaded)
+- Windows 98 Plus: https://www.4shared.com/archive/gKEhohGmea/Windows_98_Plus.html
+- Windows 98: https://www.4shared.com/archive/hW_OqJinea/Windows_98_SE.html
 - Windows 2000: https://www.mediafire.com/file/j9sta3q6qzgux9q/Windows_2000.rar/file (This is from my archive)
 
 
