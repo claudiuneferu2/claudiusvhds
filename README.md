@@ -9,7 +9,7 @@
 - If you want to send me VHDs, please compress them (Ultra) and save them as .7z!
 ### If you have a VHD/VDI , you can contact me at: claudiuneferu2@yahoo.com
 
-### So we have:
+### So we have: (sorry but, 4archive has a lot of ads and I didn't realize 😕)
 ### (Claudiu's VHDs has all Old Windows Operating Systems (1.x - 2000))
 - Windows 1.01: https://www.4shared.com/file/wryBiiyBiq/Windows_10.html
 - Windows 2.03 (MS-DOS 6.22): https://www.4shared.com/file/a-G0pEo9iq/win20.html
