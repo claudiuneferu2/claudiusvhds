@@ -13,5 +13,6 @@ So, my VHDs are for VirtualBox only!
 - Microsoft Chicago 4.00.81: https://www.4shared.com/archive/CwWGU8NKea/Chicago.html
 - Microsoft Chicago 4.00.122: https://www.4shared.com/archive/IsJmJ6Ybiq/Windows_Chicago_400122.html
 - Windows 95 Plus: Coming Soon!
-- Microsoft Chicago 4.00.347: Coming Soon!
+- Windows 95: Coming Soon!
 - Windows 98 Plus: Coming Soon!
+- Windows 98: Coming Soon!
