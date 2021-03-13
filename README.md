@@ -3,7 +3,7 @@ Claudiu's VHDs has all Old Windows Operating Systems (1.x - 2000)
 ## Info
 - Some VHDs are not mine, others are modified by me.
 - Some VHDs are posted on 4shared and mediafire.
-# If you have a VHD/VDI , you can contact me at: claudiuneferu2@yahoo.com (another Windows 1.x - 98 versions)
+### If you have a VHD/VDI , you can contact me at: claudiuneferu2@yahoo.com (another Windows 1.x - 98 versions)
 
 ### So we have:
 - Windows 1.01: https://www.4shared.com/file/wryBiiyBiq/Windows_10.html
@@ -18,3 +18,6 @@ Claudiu's VHDs has all Old Windows Operating Systems (1.x - 2000)
 - Windows 98 Plus: Coming Soon!
 - Windows 98: Coming Soon!
 - Windows 2000: https://www.mediafire.com/file/j9sta3q6qzgux9q/Windows_2000.rar/file (This is from my archive)
+
+
+
