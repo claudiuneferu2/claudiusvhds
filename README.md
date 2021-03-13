@@ -1,5 +1,5 @@
-# claudiusvhds 1.0
-Claudiu's VHDs has all Old Windows Operating Systems (1.x - 98)
+# claudiusvhds 1.9
+Claudiu's VHDs has all Old Windows Operating Systems (1.x - 2000)
 ## Info
 - Some VHDs are not mine, others are modified by me.
 - Some VHDs are posted on 4shared and mediafire.
