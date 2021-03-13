@@ -1,4 +1,4 @@
-# claudiusvhds 2.1 - Claudiu's VHDs has all Old Windows Operating Systems (1.x - 2000)
+# claudiusvhds 2.1
 
 ![image](https://user-images.githubusercontent.com/44729903/111039518-27c19d80-8437-11eb-8dd0-3a17780a5401.png)
 
@@ -9,6 +9,7 @@
 ### If you have a VHD/VDI , you can contact me at: claudiuneferu2@yahoo.com 
 
 ### So we have:
+### (Claudiu's VHDs has all Old Windows Operating Systems (1.x - 2000))
 - Windows 1.01: https://www.4shared.com/file/wryBiiyBiq/Windows_10.html
 - Windows 2.03 (MS-DOS 6.22): https://www.4shared.com/file/a-G0pEo9iq/win20.html
 - Windows 3.0 (MS-DOS 6.22): https://www.4shared.com/file/eZFCvzOUea/Windows_30-disk2.html
