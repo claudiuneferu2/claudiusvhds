@@ -7,6 +7,7 @@
 - Some VHDs are posted on 4shared and mediafire.
 - The Archives are saved on .7z/.rar/.zip!
 - If you want to send me VHDs, please compress them (Ultra) and save them as .7z (claudiuneferu2@yahoo.com)
+- Before clicking a link, please use adblock because has to much ads and i didn't realise!
 ### So we have: 
 - Windows 1.01: https://www.4shared.com/postDownload/wryBiiyBiq/Windows_10.html
 - Windows 2.03 (MS-DOS 6.22): https://www.4shared.com/postDownload/a-G0pEo9iq/win20.html
