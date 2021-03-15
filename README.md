@@ -20,6 +20,9 @@
 - Windows 98 Plus: https://www.4shared.com/postDownload/M_Z74inNiq/Windows_98_Plus.html
 - Windows 98: https://www.4shared.com/postDownload/hW_OqJinea/Windows_98_SE.html
 - Windows 2000: https://www.mediafire.com/file/j9sta3q6qzgux9q/Windows_2000.rar/file (This is from my archive)
-
-
-
+- Windows ME: https://www.mediafire.com/file/ms65opf2o28sez8/Windows+ME.7z/file (thx to user.exe from discord!)
+- Windows XP PRO RTM: https://www.mediafire.com/file/4i2jlwoi1iwiz3h/Windows+XP+Professional+RTM.7z/file (thx to user.exe from discord!)
+- Windows XP PRO SP1: https://www.mediafire.com/file/7kd9xnqrmijdh8h/Windows+XP+Professional+SP1.7z/file (thx to user.exe from discord!)
+- Windows XP PRO SP2: https://www.mediafire.com/file/pdxlrw1dznh74q8/Windows+XP+Professional+SP2.7z/file (thx to user.exe from discord!)
+- Windows XP x64 SP2: https://www.mediafire.com/file/1t2ma45rpybl4gu/Windows+XP+x64.7z/file (thx to Tavi Alexandru from discord!)
+- Windows XP PRO SP3: https://www.mediafire.com/file/3spe5l9ku5qmqw0/Windows+XP+Professional+SP3.7z/file (thx to user.exe from discord!)
