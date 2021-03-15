@@ -1,12 +1,11 @@
 # claudiusvhds 2.7
 
 ![image](https://user-images.githubusercontent.com/44729903/111039518-27c19d80-8437-11eb-8dd0-3a17780a5401.png)
-
+- Our Discord Server! https://discord.gg/drSmeuqAVs
 ## Info
 - Some VHDs are not mine, others are modified by me.
 - Some VHDs are posted on 4shared and mediafire.
-- The Archives are saved on .7z/.rar/.zip!
-- If you want to send me VHDs, please compress them (Ultra) and save them as .7z (claudiuneferu2@yahoo.com)
+- The Archives are saved on .7z!
 - Before clicking a link, please use adblock because has to much ads and i didn't realise!
 ### So we have: 
 - Windows 1.01: https://www.4shared.com/postDownload/wryBiiyBiq/Windows_10.html
