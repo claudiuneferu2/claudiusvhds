@@ -12,6 +12,7 @@
 - Windows 2.03 (MS-DOS 6.22): https://www.4shared.com/postDownload/a-G0pEo9iq/win20.html
 - Windows 3.0 (MS-DOS 6.22): https://www.4shared.com/postDownload/eZFCvzOUea/Windows_30-disk2.html
 - Windows 3.1: https://www.4shared.com/postDownload/-Kpx8exOea/Windows_31_CLR__30010_.html
+- Windows 3.1 Beta Release 1: https://www.mediafire.com/file/z30ykibdxjos7m4/Windows+3.1+034f.vhd/file
 - Windows NT 3.51 : https://www.4shared.com/postDownload/Vqqe_qcPea/Windows_NT_351-disk1.html
 - Microsoft Chicago 4.00.81: https://www.4shared.com/postDownload/CwWGU8NKea/Chicago.html
 - Microsoft Chicago 4.00.122: https://www.4shared.com/postDownload/IsJmJ6Ybiq/Windows_Chicago_400122.html
